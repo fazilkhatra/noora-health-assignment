@@ -1,0 +1,8 @@
+# Service account keys
+*.json
+
+# Python cache
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
